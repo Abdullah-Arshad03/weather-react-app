@@ -188,7 +188,8 @@ body{
   
   .checks_span{
     color: whitesmoke;
-    font-size: 24px;
+    font-size: 30px;
+    padding-top: 20px;
   }
   .sub_intro{
     font-size: 17px;
@@ -199,8 +200,9 @@ body{
     }
     .checks
     {
-
-      font-size: 25px;
+      margin-top: 200px;
+      font-size: 35px;
+      padding-bottom: 40px;
 
     }
     .icon{
@@ -241,12 +243,12 @@ body{
       font-weight: 400;
     }
   }
-  @media  (max-width : 769px){
+  @media  (min-width : 819px){
 
     .Container{
       margin-left: 100px;
       margin: 26px 18px;
-      height: 1000px;
+      height: 1180px;
       background-color: white;
       border-radius: 13px;
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5),
@@ -325,7 +327,7 @@ body{
         text-align: center;
          margin-top: 150px;
         width: 100%;
-        font-size: 18px;
+        font-size: 18kpx;
         margin-left: -20px;
         font-weight: 400;
       }
@@ -365,9 +367,12 @@ body{
     margin-left: 3px;
   }
   
-  .checks_span{
-    color: whitesmoke;
-    font-size: 28px;
+  .checks
+  {
+    margin-top: 200px;
+    font-size: 35px;
+    padding-bottom: 40px;
+
   }
   .sub_intro{
     font-size: 17px;
@@ -452,6 +457,7 @@ body{
     .checks_span{
       color: whitesmoke;
       font-size: 24px;
+      padding-bottom: 20px;
     }
     .sub_intro{
       font-size: 17px;
@@ -462,8 +468,9 @@ body{
       }
       .checks
       {
-  
-        font-size: 25px;
+        margin-top: 200px;
+        font-size: 35px;
+        padding-bottom: 40px;
   
       }
       .icon{
@@ -537,6 +544,7 @@ body{
   .checks_span{
     color: whitesmoke;
     font-size: 24px;
+    padding-bottom: 20px;
   }
   .sub_intro{
     font-size: 17px;
@@ -547,8 +555,9 @@ body{
     }
     .checks
     {
-
-      font-size: 25px;
+      margin-top: 200px;
+      font-size: 35px;
+      padding-bottom: 40px;
 
     }
     .icon{
